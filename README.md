@@ -4,9 +4,9 @@
 
 ### Software Engineer — Full Stack · AI · SaaS · Automation
 
-Final-year Software Engineering student (EMSI Casablanca, Computer Science & Networks) building
-production-shaped systems: a multi-tenant AI SaaS platform, CRM/marketing automation tooling, and
-full-stack web products. Open to full-time Software Engineering roles and freelance work.
+Software Engineer graduated from EMSI Casablanca (Computer Science & Networks). I build
+production-shaped systems with React, Node.js and Google Cloud — most recently **Tunneleads**, a
+multi-tenant SaaS that analyzes sales calls with AI. Open to full-time Software Engineering roles.
 
 [![Email](https://img.shields.io/badge/Email-imrane.adli.pro%40gmail.com-15263A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imrane.adli.pro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imrane%20ADLI-15263A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imrane-adli)
@@ -14,28 +14,18 @@ full-stack web products. Open to full-time Software Engineering roles and freela
 
 </div>
 
-<!-- TODO: add a Vinland Saga GIF at .github/assets/vinland-saga.gif in this repo, then
-     uncomment the block below (or send me a hosted GIF URL and I'll wire it in).
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADLI-Imrane/ADLI-Imrane/main/.github/assets/vinland-saga.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADLI-Imrane/ADLI-Imrane/main/.github/assets/vinland-saga.gif">
-  <img align="right" width="260" alt="Vinland Saga" src="https://raw.githubusercontent.com/ADLI-Imrane/ADLI-Imrane/main/.github/assets/vinland-saga.gif">
-</picture>
--->
-
 ## About
 
-I'm based in Casablanca, Morocco, currently completing my final-year engineering internship at
-**Qualeads**, where I build CRM automation, Shopify integrations, and marketing infrastructure —
-alongside my capstone project, a multi-tenant SaaS platform that turns phone calls into AI-scored
-commercial intelligence.
+I'm based in Casablanca, Morocco. I defended my final-year engineering project in September 2026:
+**Tunneleads**, built at **Qualeads**, a multi-tenant SaaS platform that turns phone calls into
+AI-scored commercial intelligence. I keep developing it today.
 
 I care about systems that are actually isolated, actually secure, and actually documented — not
 just "it works on my machine." Most of what's below reflects that: real architecture decisions,
 real tradeoffs, real limitations acknowledged rather than hidden.
 
-- 🔭 Currently building **Call Center AI** — a multi-tenant SaaS connecting CRMs, on-premise PBX
-  systems, and Gemini AI for automated call analysis
+- 🔭 Building **Tunneleads** — a multi-tenant SaaS connecting CRMs, on-premise PBX systems, and
+  Gemini on Vertex AI for automated call transcription and analysis (Darija + French)
 - 🌱 Currently deepening cloud/DevOps skills — Oracle Cloud Infrastructure certified (2025)
 - 💼 Open to **full-time Software Engineering roles** and **freelance projects**
 - 🗣️ Arabic, French, English
@@ -108,7 +98,7 @@ real tradeoffs, real limitations acknowledged rather than hidden.
 
 ## Featured Projects
 
-### 🎙️ Call Center AI — Multi-Tenant SaaS Platform *(PFE Capstone)*
+### 🎙️ Tunneleads — Multi-Tenant AI Call Analysis SaaS *(PFE, defended Sept. 2026)*
 
 The flagship project of my final year: a multi-tenant SaaS that turns a company's phone calls
 into commercial intelligence — connecting a CRM (webhook lead capture), an on-premise PBX
@@ -117,15 +107,16 @@ and call analysis (sentiment, objections, scoring, coaching recommendations).
 
 **What makes it non-trivial:** true database-per-company tenant isolation, a Go connector
 communicating over mutual TLS so customer PBX credentials never touch the cloud, a configurable
-per-company AI scoring engine, and a formal security model (RBAC, audit logging, MFA via SMS +
-TOTP, GCP Identity Platform).
+per-company AI scoring engine, and a formal security model (RBAC, audit logging, MFA via email code or
+TOTP, GCP Identity Platform). Validated with 124 test files and 800+ automated cases on a real
+FreePBX/Asterisk pilot at Qualeads.
 
 This went through three stages:
 1. **`call-center-ai-qa`** — proof of concept: a QA review tool for call recordings (Darija/French
    mixed transcription, speaker diarization, AI summary, QA scoring, and a chat interface to query
    transcripts)
 2. **`call-center-ai`** — early platform prototype
-3. **`call-center-ai-saas`** — the full multi-tenant platform: Next.js 16, NestJS 11, Prisma 7, a
+3. **`tunneleads`** — the full multi-tenant platform: Next.js 16, NestJS 11, Prisma 7, a
    Go on-premise connector, Google Cloud Platform (Cloud Run, Cloud SQL, Pub/Sub), Terraform IaC
 
 `Next.js` `NestJS` `Prisma` `Go` `PostgreSQL` `Google Cloud Platform` `Terraform` `Gemini AI` `mTLS`
