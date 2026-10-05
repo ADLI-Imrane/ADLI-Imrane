@@ -13,9 +13,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="56%" valign="top">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ADLI-Imrane/ADLI-Imrane/main/assets/terminal.svg" alt="Animated terminal: whoami, focus, projects, status" width="720">
+</p>
 
 ### 👋 Hey, I'm Imrane
 
@@ -36,14 +36,6 @@ const imrane = {
 };
 ```
 
-</td>
-<td width="44%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/ADLI-Imrane/ADLI-Imrane/main/assets/terminal.svg" alt="Animated terminal: whoami, focus, projects, status" width="100%">
-
-</td>
-</tr>
-</table>
 
 ## 🧠 Tech stack
 
@@ -51,16 +43,18 @@ const imrane = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"><br><sub>TypeScript</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"><br><sub>JavaScript</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"><br><sub>Go</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"><br><sub>Python</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"><br><sub>Java</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"><br><sub>PHP</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"><br><sub>Dart</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"><br><sub>C#</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"><br><sub>C++</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"><br><sub>C</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"><br><sub>TypeScript</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"><br><sub>JavaScript</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"><br><sub>Go</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"><br><sub>Python</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"><br><sub>Java</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"><br><sub>PHP</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"><br><sub>Dart</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"><br><sub>C#</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"><br><sub>C++</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"><br><sub>C</sub></td>
     </tr>
   </table>
 </div>
@@ -69,15 +63,17 @@ const imrane = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"><br><sub>React</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"><br><sub>Next.js</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"><br><sub>Angular</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"><br><sub>Flutter</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"><br><sub>Redux</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"><br><sub>Tailwind</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"><br><sub>HTML5</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"><br><sub>CSS3</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"><br><sub>React</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"><br><sub>Next.js</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"><br><sub>Angular</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"><br><sub>Flutter</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"><br><sub>Redux</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"><br><sub>Tailwind</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"><br><sub>HTML5</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"><br><sub>CSS3</sub></td>
     </tr>
   </table>
 </div>
@@ -86,11 +82,11 @@ const imrane = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"><br><sub>Node.js</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS"><br><sub>NestJS</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"><br><sub>Spring Boot</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"><br><sub>Django</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"><br><sub>Prisma</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"><br><sub>Node.js</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS"><br><sub>NestJS</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"><br><sub>Spring Boot</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"><br><sub>Django</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"><br><sub>Prisma</sub></td>
     </tr>
   </table>
 </div>
@@ -99,10 +95,10 @@ const imrane = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"><br><sub>MySQL</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"><br><sub>MongoDB</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"><br><sub>Supabase</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"><br><sub>MySQL</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"><br><sub>MongoDB</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"><br><sub>Supabase</sub></td>
     </tr>
   </table>
 </div>
@@ -111,12 +107,12 @@ const imrane = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud"><br><sub>Google Cloud</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"><br><sub>Azure</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"><br><sub>Docker</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"><br><sub>Terraform</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"><br><sub>Linux</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare"><br><sub>Cloudflare</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud"><br><sub>Google Cloud</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"><br><sub>Azure</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"><br><sub>Docker</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"><br><sub>Terraform</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"><br><sub>Linux</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare"><br><sub>Cloudflare</sub></td>
     </tr>
   </table>
 </div>
@@ -125,10 +121,10 @@ const imrane = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"><br><sub>Git</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"><br><sub>GitHub</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"><br><sub>VS Code</sub></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"><br><sub>Postman</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"><br><sub>Git</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"><br><sub>GitHub</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"><br><sub>VS Code</sub></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"><br><sub>Postman</sub></td>
     </tr>
   </table>
 </div>
