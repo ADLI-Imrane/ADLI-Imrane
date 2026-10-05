@@ -5,10 +5,10 @@
 </picture>
 
 <p align="center">
-  <a href="mailto:imrane.adli.pro@gmail.com"><img src="https://img.shields.io/badge/Email-imrane.adli.pro%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/imrane-adli"><img src="https://img.shields.io/badge/LinkedIn-imrane--adli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Status-Open_to_work-2EA043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work">
-  <img src="https://komarev.com/ghpvc/?username=ADLI-Imrane&style=for-the-badge&color=2F5BEA&label=Profile+views" alt="Profile views">
+  <a href="mailto:imrane.adli.pro@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/imrane-adli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Casablanca,_Morocco-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Casablanca, Morocco">
+  <img src="https://img.shields.io/badge/Open_to_work-2EA043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work">
 </p>
 
 <br>
