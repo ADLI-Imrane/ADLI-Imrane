@@ -1,214 +1,131 @@
-<div align="center">
-
-# Imrane ADLI
-
-### Software Engineer — Full Stack · AI · SaaS · Automation
-
-Software Engineer graduated from EMSI Casablanca (Computer Science & Networks). I build
-production-shaped systems with React, Node.js and Google Cloud — most recently **Tunneleads**, a
-multi-tenant SaaS that analyzes sales calls with AI. Open to full-time Software Engineering roles.
-
-[![Email](https://img.shields.io/badge/Email-imrane.adli.pro%40gmail.com-15263A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imrane.adli.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imrane%20ADLI-15263A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imrane-adli)
-[![GitHub](https://img.shields.io/badge/GitHub-ADLI--Imrane-15263A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADLI-Imrane)
-
-</div>
-
-## About
-
-I'm based in Casablanca, Morocco. I defended my final-year engineering project in September 2026:
-**Tunneleads**, built at **Qualeads**, a multi-tenant SaaS platform that turns phone calls into
-AI-scored commercial intelligence. I keep developing it today.
-
-I care about systems that are actually isolated, actually secure, and actually documented — not
-just "it works on my machine." Most of what's below reflects that: real architecture decisions,
-real tradeoffs, real limitations acknowledged rather than hidden.
-
-- 🔭 Building **Tunneleads** — a multi-tenant SaaS connecting CRMs, on-premise PBX systems, and
-  Gemini on Vertex AI for automated call transcription and analysis (Darija + French)
-- 🌱 Currently deepening cloud/DevOps skills — Oracle Cloud Infrastructure certified (2025)
-- 💼 Open to **full-time Software Engineering roles** and **freelance projects**
-- 🗣️ Arabic, French, English
-
-<br clear="right"/>
-
----
-
-## Skills
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-15263A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-15263A?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-15263A?style=flat-square&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-15263A?style=flat-square&logo=php&logoColor=777BB4)
-![SQL](https://img.shields.io/badge/SQL-15263A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![HTML5](https://img.shields.io/badge/HTML5-15263A?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-15263A?style=flat-square&logo=css3&logoColor=1572B6)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-15263A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-15263A?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-15263A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-15263A?style=flat-square&logo=shadcnui&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-15263A?style=flat-square&logo=reactquery&logoColor=FF4154)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-15263A?style=flat-square&logo=node.js&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-15263A?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Django](https://img.shields.io/badge/Django-15263A?style=flat-square&logo=django&logoColor=092E20)
-![Prisma](https://img.shields.io/badge/Prisma-15263A?style=flat-square&logo=prisma&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15263A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-15263A?style=flat-square&logo=mysql&logoColor=4479A1)
-![Supabase](https://img.shields.io/badge/Supabase-15263A?style=flat-square&logo=supabase&logoColor=3FCF8E)
-
-**Cloud & Infrastructure**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-15263A?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-15263A?style=flat-square&logo=oracle&logoColor=F80000)
-![Azure](https://img.shields.io/badge/Azure-15263A?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-15263A?style=flat-square&logo=docker&logoColor=2496ED)
-![Terraform](https://img.shields.io/badge/Terraform-15263A?style=flat-square&logo=terraform&logoColor=7B42BC)
-![Linux](https://img.shields.io/badge/Linux-15263A?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-15263A?style=flat-square&logo=git&logoColor=F05032)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-15263A?style=flat-square&logo=cloudflare&logoColor=F38020)
-
-**AI**
-
-![Google Gemini](https://img.shields.io/badge/Gemini-15263A?style=flat-square&logo=googlegemini&logoColor=8E75B2)
-![OpenAI Whisper](https://img.shields.io/badge/Whisper-15263A?style=flat-square&logo=openai&logoColor=white)
-
-**CRM & Marketing Automation**
-
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-15263A?style=flat-square&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-15263A?style=flat-square&logo=shopify&logoColor=7AB55C)
-![Meta](https://img.shields.io/badge/Meta_Pixel-15263A?style=flat-square&logo=meta&logoColor=0866FF)
-
-**Telephony / VoIP**
-
-![Asterisk](https://img.shields.io/badge/Asterisk-15263A?style=flat-square&logo=asterisk&logoColor=E32626)
-`FreePBX` · `OpenVox` · `SIP` · `GSM Gateways` · `Zoiper`
-
----
-
-## Featured Projects
-
-### 🎙️ Tunneleads — Multi-Tenant AI Call Analysis SaaS *(PFE, defended Sept. 2026)*
-
-The flagship project of my final year: a multi-tenant SaaS that turns a company's phone calls
-into commercial intelligence — connecting a CRM (webhook lead capture), an on-premise PBX
-(FreePBX/Asterisk via a custom local connector), and Google Gemini for AI-powered transcription
-and call analysis (sentiment, objections, scoring, coaching recommendations).
-
-**What makes it non-trivial:** true database-per-company tenant isolation, a Go connector
-communicating over mutual TLS so customer PBX credentials never touch the cloud, a configurable
-per-company AI scoring engine, and a formal security model (RBAC, audit logging, MFA via email code or
-TOTP, GCP Identity Platform). Validated with 124 test files and 800+ automated cases on a real
-FreePBX/Asterisk pilot at Qualeads.
-
-This went through three stages:
-1. **`call-center-ai-qa`** — proof of concept: a QA review tool for call recordings (Darija/French
-   mixed transcription, speaker diarization, AI summary, QA scoring, and a chat interface to query
-   transcripts)
-2. **`call-center-ai`** — early platform prototype
-3. **`tunneleads`** — the full multi-tenant platform: Next.js 16, NestJS 11, Prisma 7, a
-   Go on-premise connector, Google Cloud Platform (Cloud Run, Cloud SQL, Pub/Sub), Terraform IaC
-
-`Next.js` `NestJS` `Prisma` `Go` `PostgreSQL` `Google Cloud Platform` `Terraform` `Gemini AI` `mTLS`
-
-*Private repository — details available on request.*
-
----
-
-### 📊 Qualeads Management System
-
-A production-shaping project management application, inspired by Monday.com, tailored to a
-content production agency's real workflows (campaign/production tracking, task boards, team
-coordination). Built during my internship at Qualeads.
-
-`Next.js` `TypeScript` `PostgreSQL`
-
-*Private repository — details available on request.*
-
----
-
-### 🔗 [WRX Generator V2.0](https://github.com/ADLI-Imrane/wrx-generator-v2)
-
-A full platform for generating shortened URLs and custom QR codes. Live at
-[wrx.link](https://wrx.link).
-
-`Next.js` `TypeScript` `PostgreSQL` `pnpm`
-
----
-
-### 🛍️ SEO Automator Pro & Shopify AI Studio
-
-Two Shopify-focused tools built for e-commerce automation:
-- **SEO Automator Pro** — a Shopify app that automates SEO optimization for products and
-  collections using AI
-- **Shopify AI Studio** — automates product photography using Vertex AI
-
-`Shopify` `Liquid` `Next.js` `Vertex AI`
-
-*Private repositories — details available on request.*
-
----
-
-### 🏥 [Engage Employee Pro](https://github.com/ADLI-Imrane/engage-employee-pro)
-
-An HR management platform built during my internship at Omnidoc Santé. Bootstrapped with
-[Lovable](https://lovable.dev) and extended with authentication, role-based access control,
-two-factor authentication, a full API layer, and PostgreSQL/Supabase data management.
-
-`Next.js` `React` `Prisma` `PostgreSQL` `Supabase` `Azure`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ADLI-Imrane&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8AB4F8&icon_color=8AB4F8&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ADLI-Imrane&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=15263A&icon_color=15263A&text_color=333333">
-  <img alt="Imrane's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ADLI-Imrane&show_icons=true&hide_border=true&title_color=15263A&icon_color=15263A">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="Imrane Adli — Software Engineer · Full Stack · Cloud · Applied AI" src="./assets/banner-light.svg" width="100%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ADLI-Imrane&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8AB4F8&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ADLI-Imrane&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=15263A&text_color=333333">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADLI-Imrane&layout=compact&hide_border=true&title_color=15263A">
-</picture>
+<p align="center">
+  <a href="mailto:imrane.adli.pro@gmail.com"><img src="https://img.shields.io/badge/Email-imrane.adli.pro%40gmail.com-1F2328?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/imrane-adli"><img src="https://img.shields.io/badge/LinkedIn-imrane--adli-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Open_to-Full--time_roles-2EA043?style=flat-square" alt="Open to full-time roles">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ADLI-Imrane&theme=dark&hide_border=true&background=0D1117&ring=8AB4F8&fire=8AB4F8&currStreakLabel=8AB4F8">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ADLI-Imrane&theme=default&hide_border=true&background=FFFFFF&ring=15263A&fire=15263A&currStreakLabel=15263A">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ADLI-Imrane&hide_border=true">
-</picture>
+## Hi, I'm Imrane 👋
 
-</div>
+Software engineer from Casablanca, graduated from **EMSI** (Computer Science & Networks). I build
+full-stack products end to end — from the first spec to production — with **React, Node.js and
+Google Cloud**.
 
----
+My final-year project, **Tunneleads**, is a multi-tenant SaaS that pulls sales calls from a company's
+phone system, transcribes them, and scores them with AI. Calls switch between Darija and French
+mid-sentence, so I benchmarked several models on real recordings before choosing one.
 
-## Certifications
+<table>
+  <tr>
+    <td>🔭 Developing <b>Tunneleads</b> after defending it in September 2026</td>
+  </tr>
+  <tr>
+    <td>☁️ Oracle Cloud Infrastructure 2025 certified — DevOps Professional · Data Science Professional</td>
+  </tr>
+  <tr>
+    <td>💬 Arabic · French · English</td>
+  </tr>
+</table>
 
-- **Oracle Cloud Infrastructure 2025 Certified — Data Science Professional**
-- **Oracle Cloud Infrastructure 2025 Certified — DevOps Professional**
+## Featured work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Tunneleads</h3>
+      <sub>Final-year project at Qualeads · 2026</sub>
+      <p>Multi-tenant SaaS that turns sales calls into coaching: recordings are fetched from the
+      company's PBX, linked to the right lead, transcribed and analyzed by Gemini (summary, score,
+      objections, next steps), then shown in a manager dashboard.</p>
+      <ul>
+        <li>Database per tenant, RBAC, MFA, append-only audit log</li>
+        <li>On-premise connector in <b>Go</b> over mutual TLS — no inbound ports</li>
+        <li>124 test files, 800+ automated cases, validated on a real FreePBX/Asterisk pilot</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+      </p>
+      <sub>🔒 Private repository — walkthrough available on request</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/ADLI-Imrane/wrx-generator-v2">WRX Generator v2</a></h3>
+      <sub>Personal project · 2025–2026 · <a href="https://wrx.link">wrx.link</a></sub>
+      <p>A URL shortener and custom QR-code platform rebuilt as a monorepo, shipped on the web,
+      mobile and as a Chrome extension, with integrated payments.</p>
+      <ul>
+        <li>pnpm workspaces monorepo with shared packages</li>
+        <li>Stripe payments and Supabase auth/data</li>
+        <li>Live in production</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 HR Information System</h3>
+      <sub>Internship at Omnidoc Santé · 2025</sub>
+      <p>Co-developed a full-stack HRIS used in production for employee records, leave requests and
+      payroll. Modeled in UML and hosted on Microsoft Azure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+      </p>
+      <sub>🔒 Company-owned code</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ Shopify AI Studio</h3>
+      <sub>Personal project · 2026</sub>
+      <p>Automates e-commerce product photography with Vertex AI, plus an SEO tool that optimizes
+      Shopify products and collections.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI">
+        <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
+      </p>
+      <sub>🔒 Private repository</sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+## Tech stack
 
-### Let's build something.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,php&theme=dark" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,prisma&theme=dark" alt="Frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" alt="Databases"><br>
+  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,terraform,linux,cloudflare&theme=dark" alt="Cloud and DevOps">
+</p>
 
-I'm actively looking for **Software Engineering** roles (full-time or freelance) — Full Stack
-Development, AI-powered products, SaaS, CRM/automation tooling, or cloud infrastructure work.
+**Also:** Gemini & Vertex AI · FreePBX / Asterisk · SIP · Shopify · UML · Scrum
 
-[![Email](https://img.shields.io/badge/Get_in_touch-imrane.adli.pro%40gmail.com-15263A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imrane.adli.pro@gmail.com)
+## Experience
 
-</div>
+| Period | Role | Company |
+| :-- | :-- | :-- |
+| Feb 2026 – now | Full-Stack Software Engineer (final-year project) | Qualeads |
+| Jul – Sep 2025 | Web Developer Intern | Omnidoc Santé |
+| Jul – Sep 2024 | Web Developer Intern | Qualeads |
+| Jul – Sep 2022 | Web Developer Intern | Declic Agency |
+
+<p align="center">
+  <sub>Looking for a full-stack role in Casablanca — happy to walk you through any of these projects.</sub><br>
+  <a href="mailto:imrane.adli.pro@gmail.com"><b>imrane.adli.pro@gmail.com</b></a>
+</p>
