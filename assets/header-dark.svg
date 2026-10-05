@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Imrane Adli, junior software engineer">
+<defs><linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset=".5" stop-color="#2F5BEA"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#1F2630"/></pattern>
+<clipPath id="card"><rect width="1200" height="300" rx="18"/></clipPath>
+<style>.n{font:800 72px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#E6EDF3;letter-spacing:-2px}.r{font:600 26px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#9DA7B3}.g{font:600 18px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#2F5BEA}.p{font:600 26px ui-monospace,monospace;fill:#2F5BEA}</style></defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="300" fill="#0D1117"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0007;0.2458;0.2465;1" dur="14.4s" repeatCount="indefinite"/>
+<text x="82" y="202" class="r">Junior Software Engineer</text>
+<rect x="80" y="176" width="1000" height="36" fill="#0D1117"><animate attributeName="x" values="80;80;463;463;80;80" keyTimes="0;0.0000;0.0972;0.2014;0.2465;1" dur="14.4s" repeatCount="indefinite"/></rect>
+<rect y="180" width="3" height="28" fill="#2F5BEA"><animate attributeName="x" values="80;80;463;463;80;80" keyTimes="0;0.0000;0.0972;0.2014;0.2465;1" dur="14.4s" repeatCount="indefinite"/></rect></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2500;0.2507;0.4958;0.4965;1" dur="14.4s" repeatCount="indefinite"/>
+<text x="82" y="202" class="r">Full-Stack Developer · React &amp; Node.js</text>
+<rect x="80" y="176" width="1000" height="36" fill="#0D1117"><animate attributeName="x" values="80;80;683;683;80;80" keyTimes="0;0.2500;0.3472;0.4514;0.4965;1" dur="14.4s" repeatCount="indefinite"/></rect>
+<rect y="180" width="3" height="28" fill="#2F5BEA"><animate attributeName="x" values="80;80;683;683;80;80" keyTimes="0;0.2500;0.3472;0.4514;0.4965;1" dur="14.4s" repeatCount="indefinite"/></rect></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5000;0.5007;0.7458;0.7465;1" dur="14.4s" repeatCount="indefinite"/>
+<text x="82" y="202" class="r">Cloud &amp; DevOps · GCP, Docker, Terraform</text>
+<rect x="80" y="176" width="1000" height="36" fill="#0D1117"><animate attributeName="x" values="80;80;698;698;80;80" keyTimes="0;0.5000;0.5972;0.7014;0.7465;1" dur="14.4s" repeatCount="indefinite"/></rect>
+<rect y="180" width="3" height="28" fill="#2F5BEA"><animate attributeName="x" values="80;80;698;698;80;80" keyTimes="0;0.5000;0.5972;0.7014;0.7465;1" dur="14.4s" repeatCount="indefinite"/></rect></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7500;0.7507;0.9958;0.9965;1" dur="14.4s" repeatCount="indefinite"/>
+<text x="82" y="202" class="r">Building products with applied AI</text>
+<rect x="80" y="176" width="1000" height="36" fill="#0D1117"><animate attributeName="x" values="80;80;604;604;80;80" keyTimes="0;0.7500;0.8472;0.9514;0.9965;1" dur="14.4s" repeatCount="indefinite"/></rect>
+<rect y="180" width="3" height="28" fill="#2F5BEA"><animate attributeName="x" values="80;80;604;604;80;80" keyTimes="0;0.7500;0.8472;0.9514;0.9965;1" dur="14.4s" repeatCount="indefinite"/></rect></g>
+<rect width="1200" height="300" fill="url(#dots)"/>
+<rect x="0" y="0" width="1200" height="5" fill="url(#lg)"/>
+<text x="860" y="70" class="g" opacity="0">&lt;/&gt;<animate attributeName="opacity" values="0;.6;0" dur="6s" begin="0s" repeatCount="indefinite"/></text><text x="1010" y="110" class="g" opacity="0">{ }<animate attributeName="opacity" values="0;.6;0" dur="6s" begin="1.2s" repeatCount="indefinite"/></text><text x="930" y="170" class="g" opacity="0">=&gt;<animate attributeName="opacity" values="0;.6;0" dur="6s" begin="2.4s" repeatCount="indefinite"/></text><text x="1040" y="232" class="g" opacity="0">npm run dev<animate attributeName="opacity" values="0;.6;0" dur="6s" begin="3.1s" repeatCount="indefinite"/></text><text x="820" y="250" class="g" opacity="0">git push<animate attributeName="opacity" values="0;.6;0" dur="6s" begin="4.2s" repeatCount="indefinite"/></text><text x="1060" y="60" class="g" opacity="0">async<animate attributeName="opacity" values="0;.6;0" dur="6s" begin="5s" repeatCount="indefinite"/></text>
+<text x="76" y="140" class="n">Imrane Adli</text>
+<text x="52" y="202" class="p">&gt;</text>
+<text x="80" y="262" style="font:500 16px ui-monospace,Menlo,monospace;fill:#9DA7B3">Casablanca, Morocco · EMSI engineering graduate</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#30363D"/>
+</svg>
