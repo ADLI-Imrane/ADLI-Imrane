@@ -30,7 +30,7 @@ const imrane = {
   location:   "Casablanca, Morocco 🇲🇦",
   degree:     "Engineering degree — EMSI, 2026",
   loves:      ["Clean APIs", "Smooth UIs", "Shipping to the cloud"],
-  learning:   ["Kubernetes", "System design"],
+  focus:      ["Full-stack web", "Cloud & DevOps", "Applied AI"],
   speaks:     ["Arabic", "French", "English"],
   offline:    "Lions Club EMSI board member 🦁",
 };
